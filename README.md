@@ -1,5 +1,2 @@
-# Turkish-Sign-Language-Classification
 
-#To run Problem_2_Test you need a virtual environment that has TensorFlow with Keras 
-#as well as adding the Turkish-Dataset folder in the project repository
-#and copying that folder in the same place and renaming it Turkish-Dataset-G
+# To run training, add the Turkish-Dataset folder in the project repository and copy that folder in the same place and rename it Turkish-Dataset-G
